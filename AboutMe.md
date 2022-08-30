@@ -1,0 +1,1 @@
+My name is Raj Jagrup. I am a senior and I will be graduating at the end of this semester. In my free time I play video games. The programming languages that I know are Java, Python, HTML and JavaScript. 
